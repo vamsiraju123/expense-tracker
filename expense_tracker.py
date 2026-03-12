@@ -22,6 +22,4 @@ while True:
 
     elif choice == "3":
         break
-    else:
-        print("thank u. we r exiting.")
         
